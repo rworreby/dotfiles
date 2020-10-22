@@ -1,0 +1,11 @@
+[user]
+	email = robin@worreby.ch
+	name = Robin Worreby
+[core]
+	editor = atom --wait
+[diff]
+	tool = atom
+	guitool = atom
+[merge]
+	tool = atom
+
